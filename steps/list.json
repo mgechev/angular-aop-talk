@@ -1,0 +1,170 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "about-me.html",
+        "id": "about-me",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "what-is-aop.html",
+        "id": "what-is-aop",
+        "class": "step",
+        "data": {
+            "x": 6000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "true-story.html",
+        "id": "true-story",
+        "class": "step",
+        "data": {
+            "x": 9000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "what-are-the-crosscuts.html",
+        "id": "what-are-the-crosscuts",
+        "class": "step",
+        "data": {
+            "x": 12000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "typically.html",
+        "id": "typically",
+        "class": "step",
+        "data": {
+            "x": 15000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "how-aop-solves-them.html",
+        "id": "how-aop-solves-them",
+        "class": "step",
+        "data": {
+            "x": 18000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "what-we-already-have.html",
+        "id": "what-we-already-have",
+        "class": "step",
+        "data": {
+            "x": 21000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "how-about-angularaop.html",
+        "id": "how-about-angularaop",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "example.html",
+        "id": "example",
+        "class": "step",
+        "data": {
+            "x": 27000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "example-2.html",
+        "id": "example-2",
+        "class": "step",
+        "data": {
+            "x": 30000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "thank-you.html",
+        "id": "thank-you",
+        "class": "step",
+        "data": {
+            "x": 33000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    }
+]

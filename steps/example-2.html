@@ -1,0 +1,16 @@
+<h2>Example (2)</h2>
+<pre>
+app.config(
+  function ($provide,
+  executeProvider) {
+  executeProvider.annotate($provide, {
+    ArticlesCollection: {
+      jointPoint: 'before',
+      advice: 'Logger',
+      methodPattern: /Private/,
+      argsPatterns:
+      [/arg1/, /arg2/, ..., /argn/]
+    }
+  });
+});
+</pre>
