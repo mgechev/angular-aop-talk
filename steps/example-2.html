@@ -1,12 +1,11 @@
 <h2>Example (2)</h2>
 <pre>
 app.config(
-  function ($provide,
-  executeProvider) {
+  function ($provide, executeProvider) {
   executeProvider.annotate($provide, {
     ArticlesCollection: {
       jointPoint: 'before',
-      advice: 'Logger',
+      advice: 'Authorization', //a service
       methodPattern: /Private/,
       argsPatterns:
       [/arg1/, /arg2/, ..., /argn/]

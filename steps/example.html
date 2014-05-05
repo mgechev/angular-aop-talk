@@ -1,11 +1,11 @@
 <h2>Example (1)</h2>
 <pre>
-app.service('ArticlesCollection', function () {
+app.factory('ArticlesCollection', function () {
   return {
     getPublicArticleById: function (id) {
       //Get a public article by ID
     },
-    getPrivateArticle: function (id) {
+    getPrivateArticleById: function (id) {
       //Get a private article by ID
     },
     getPrivateArticles: function () {
