@@ -112,11 +112,25 @@
         }
     },
     {
+        "uri": "how-about-angularjs.html",
+        "id": "how-about-angularjs",
+        "class": "step",
+        "data": {
+            "x": 24000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
         "uri": "how-about-angularaop.html",
         "id": "how-about-angularaop",
         "class": "step",
         "data": {
-            "x": 24000,
+            "x": 27000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -130,7 +144,7 @@
         "id": "example",
         "class": "step",
         "data": {
-            "x": 27000,
+            "x": 30000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -144,7 +158,7 @@
         "id": "example-2",
         "class": "step",
         "data": {
-            "x": 30000,
+            "x": 33000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -158,7 +172,7 @@
         "id": "thank-you",
         "class": "step",
         "data": {
-            "x": 33000,
+            "x": 37000,
             "y": 0,
             "z": 0,
             "scale": 1,
