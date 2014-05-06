@@ -7,7 +7,7 @@
             "x": 0,
             "y": 0,
             "z": 0,
-            "scale": 4,
+            "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 0
@@ -18,7 +18,7 @@
         "id": "about-me",
         "class": "step",
         "data": {
-            "x": 3000,
+            "x": 4000,
             "y": 0,
             "z": 0,
             "scale": 1,
